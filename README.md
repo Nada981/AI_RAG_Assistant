@@ -39,8 +39,6 @@ A full-stack Retrieval-Augmented Generation (RAG) web application built with Pyt
     ```
 
 
-  4. Run the Streamlit application:
-    ```bash
-    streamlit run app_ui.py
-
-    ```
+ 4. Run the Streamlit application:
+```bash
+streamlit run app_ui.py
