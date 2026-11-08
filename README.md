@@ -22,21 +22,21 @@ A full-stack Retrieval-Augmented Generation (RAG) web application built with Pyt
    git clone https://github.com/Nada981/AI_RAG_Assistant.git
    cd AI_RAG_Assistant
 
- ```
+   ```
 
  2. Install dependencies:
- ```bash
- pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
  
- ```
+   ```
 
 
  3. Set up your environment variables:
-Create a `.env` file in the root directory and add your Gemini API key:
- ```env
- GEMINI_API_KEY=your_actual_api_key_here
+   Create a `.env` file in the root directory and add your Gemini API key:
+    ```env
+    GEMINI_API_KEY=your_actual_api_key_here
 
- ```
+    ```
 
 
   4. Run the Streamlit application:
