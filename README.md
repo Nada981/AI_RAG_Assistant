@@ -25,10 +25,10 @@ A full-stack Retrieval-Augmented Generation (RAG) web application built with Pyt
    ```
 
  2. Install dependencies:
-   ```bash
+     ```bash
      pip install -r requirements.txt
  
-   ```
+     ```
 
 
  3. Set up your environment variables:
@@ -40,5 +40,5 @@ A full-stack Retrieval-Augmented Generation (RAG) web application built with Pyt
 
 
   4. Run the Streamlit application:
- ```bash
+    ```bash
     streamlit run app_ui.py
