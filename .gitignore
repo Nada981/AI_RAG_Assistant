@@ -1,0 +1,9 @@
+.env
+chroma_db/
+__pycache__/
+embeddings_demo.py
+full_rag_system.py
+pdf_rag_loader.py
+rag_chroma_demo.py
+test.py
+test_gemini.py
